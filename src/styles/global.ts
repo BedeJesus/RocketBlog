@@ -10,7 +10,6 @@ export default createGlobalStyle`
 
 body{
     background:#fff;
-    
 }
 `
 
