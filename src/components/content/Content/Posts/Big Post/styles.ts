@@ -4,6 +4,7 @@ export const Container = styled.div`
 display: flex;
 flex-direction: column;
 margin:24px 0;
+
 `
 
 export const Image = styled.img`
@@ -34,7 +35,7 @@ export const Text = styled.span`
 font-family: Roboto;
 font-size: 16px;
 color: #000;
-width: 471px;
+width: 569px;
 
 `
 
