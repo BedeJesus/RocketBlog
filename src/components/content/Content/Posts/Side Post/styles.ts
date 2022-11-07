@@ -4,6 +4,7 @@ export const Container = styled.div`
 display: flex;
 flex-direction: column;
 margin:24px 0;
+
 `
 
 export const Date = styled.span`

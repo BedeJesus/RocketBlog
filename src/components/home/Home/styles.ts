@@ -8,7 +8,7 @@ background-color:#290742;
 
 export const Menu = styled.div`
 display: flex;
-margin: 2em 2.2em 0 1.8em; // controling the margin of the aplication
+margin: 2em 2.2em 0 1.8em; 
 
 flex-direction: row;
 justify-content: space-around;
@@ -35,13 +35,16 @@ width: 17em;
 background-color: #170027;
 border-top-left-radius: 4px;
 border-bottom-left-radius:4px;
+color: #fff;
+padding-left:1em;
 
 ::placeholder {
     color:#FBF6FF;
     padding: 1.5em;
   }
   &:focus{
-    outline-color: #4fff4b;
+  
+    outline: none;
   }
 
 `
@@ -52,6 +55,9 @@ padding: 0em 1.7em;
 border: none;
 border-top-right-radius: 4px;
 border-bottom-right-radius:4px;
+:hover{
+  cursor: pointer;
+}
 `
 
 export const InputWrap = styled.div`
@@ -90,6 +96,10 @@ export const More = styled.div`
 margin-top: 1.5em;
 display: flex;
 align-items: center;
+
+:hover{
+  cursor: pointer;
+}
 `
 
 export const MoreText = styled.span`

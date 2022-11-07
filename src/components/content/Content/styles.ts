@@ -14,7 +14,6 @@ margin: 3em 1em 0 1em;
 export const Side = styled.div`
 display: flex;
 flex-direction: column;
-margin-top:-1em;
 `
 
 export const SmallBlock = styled.div`
