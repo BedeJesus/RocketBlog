@@ -1,6 +1,6 @@
 <h1>RocketBlog</h1>
-👨‍💻 Landing page para um blog<br>
-🪄 Pequeno projeto para eu treinar minha estilização baseado em um design feito no Figma<br>
+👨‍💻 Landing page para um blog fictício.<br>
+🪄 Pequeno projeto para eu treinar minha estilização baseado em um design feito no Figma.<br>
 🔗 Projeto que eu executei : https://app.rocketseat.com.br/discover/challenges/rocketblog
 
 
