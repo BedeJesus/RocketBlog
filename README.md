@@ -4,7 +4,7 @@
 🔗 Projeto que eu executei : https://app.rocketseat.com.br/discover/challenges/rocketblog
 
 
-<h2>Tecnologias utilizadas</h2>
+<h2>Tecnologias Utilizadas</h2>
     <h3>Front-end:</h3>
     - React JS <br>
     - Typescript <br>
